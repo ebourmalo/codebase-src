@@ -1,0 +1,30 @@
+{
+  "name": "codebase",
+  "version": "0.1.0",
+  "description": "Get the codebase of different javascript frameworks and expose them via a github repository",
+  "main": "index.js",
+  "dependencies": {
+    "request-promise": "^0.4.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^3.1.5",
+    "eslint": "^0.21.2",
+    "eslint-plugin-react": "^2.3.0",
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebourmalo/codebase-src"
+  },
+  "keywords": [
+    "codebase",
+    "javascript",
+    "frameworks",
+    "structure",
+    "architecture"
+  ],
+  "author": "Emmanuel Bourmalo",
+  "license": "ISC"
+}
